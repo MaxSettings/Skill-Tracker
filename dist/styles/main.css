@@ -857,11 +857,11 @@ main {
 }
 
 .header__info-link--about:before {
-  content: url(../../../img/svg/info-icon.svg);
+  content: url(../img/svg/info-icon.svg);
 }
 
 .header__info-link--search:before {
-  content: url(../../../img/svg/search-icon.svg);
+  content: url(../img/svg/search-icon.svg);
 }
 
 .header__menu {
@@ -904,15 +904,15 @@ main {
 }
 
 .header__activity-link--favorites {
-  background-image: url(../../../img/svg/star-icon.svg);
+  background-image: url(../img/svg/star-icon.svg);
 }
 
 .header__activity-link--messages {
-  background-image: url(../../../img/svg/message-icon.svg);
+  background-image: url(../img/svg/message-icon.svg);
 }
 
 .header__activity-link--notifications {
-  background-image: url(../../../img/svg/bell-icon.svg);
+  background-image: url(../img/svg/bell-icon.svg);
 }
 
 .header__activity-link:after {
@@ -1015,15 +1015,15 @@ main {
 }
 
 .footer__socials-link--fb {
-  background-image: url(../../../img/svg/fb-icon.svg);
+  background-image: url(../img/svg/fb-icon.svg);
 }
 
 .footer__socials-link--insta {
-  background-image: url(../../../img/svg/insta-icon.svg);
+  background-image: url(../img/svg/insta-icon.svg);
 }
 
 .footer__socials-link--vk {
-  background-image: url(../../../img/svg/vk-icon.svg);
+  background-image: url(../img/svg/vk-icon.svg);
 }
 
 .footer__socials-link:hover {
@@ -1126,15 +1126,15 @@ main {
 }
 
 .site-btn__decor--pen {
-  background: url(../../../img/svg/decor-pen.svg) center no-repeat;
+  background: url(../img/svg/decor-pen.svg) center no-repeat;
 }
 
 .site-btn__decor--lock {
-  background: url(../../../img/svg/decor-lock.svg) center no-repeat;
+  background: url(../img/svg/decor-lock.svg) center no-repeat;
 }
 
 .site-btn__decor--search {
-  background: url(../../../img/svg/search-icon.svg) center no-repeat;
+  background: url(../img/svg/search-icon.svg) center no-repeat;
 }
 
 .site-checkbox {
@@ -1694,7 +1694,7 @@ main {
     display: none;
     font-size: 0;
     border: none;
-    background: url(../../../img/svg/logout-icon.svg) center/22px 22px no-repeat;
+    background: url(../img/svg/logout-icon.svg) center/22px 22px no-repeat;
   }
 
   .header__left-wrapper--active {
